@@ -1,0 +1,91 @@
+body{
+    
+    background-image: url(./billie-dolar-fondo-dinero.jpg);
+        background-size: cover;
+    border-radius: 0%;
+    }
+    
+    
+    
+    
+    
+    #container {
+    
+    background-color: rgb(87, 87, 87);
+    border-radius: 40px;
+    color: aliceblue;
+    
+    
+    }
+    
+    #Opciones{
+    
+    margin: 0%;
+    border-radius: 0%;
+    }
+    
+    .navbar-toggler{
+    
+    text-shadow: none;
+    border: none;
+    
+    }
+    
+    #inicio{
+    
+        background-color: rgb(0, 255, 128);
+        color: rgb(0, 0, 0);
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+    }
+    
+    #inicioo{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    }
+    
+    #card1{
+    
+    background-color: rgb(0, 255, 128);
+    border: none;
+    border-radius: 50px;
+    }
+    
+    
+    
+    #minijuegos{
+    
+    
+    background-color: rgb(87, 87, 87);
+    border: none;
+    border-radius: 40px;
+    text-align: center;
+    color: aliceblue;
+    
+    }
+    
+    #Jugar{
+    
+    background-color: rgb(0, 255, 128);
+    border: none;
+    border-radius: 30px;
+    width: 70% ;
+    height: 50px;
+    
+    
+    }
+    
+    #Ruleta{
+    
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 255, 128);
+    
+    background-size: cover;
+    border-radius: 40px;
+    padding: 40px;
+    width: 100%;
+    }
+    
+    
