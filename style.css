@@ -1,9 +1,8 @@
 body{
     
-    background-image: url(./billie-dolar-fondo-dinero.jpg);
-        background-size: cover;
-    border-radius: 0%;
-    }
+    background-color: black;
+background-size: cover;
+}
     
     
     
@@ -11,81 +10,122 @@ body{
     
     #container {
     
-    background-color: rgb(87, 87, 87);
+    background-color: #12729a;
     border-radius: 40px;
     color: aliceblue;
+    text-align: center;
     
     
     }
-    
-    #Opciones{
-    
-    margin: 0%;
-    border-radius: 0%;
-    }
-    
+
     .navbar-toggler{
     
-    text-shadow: none;
-    border: none;
-    
+border: none;
+
     }
+
+.offcanvas-header{
+
+background-color: #12729a;
+color: white;
+}
+
+
+   
+.offcanvas-body{
+
+    background-color: #12729a;
+color: white;
+
+
+}
+
+.dropdown-menu{
+
+background-color: #12729a;
+}
+
+.dropdown-item{
+
+color: white;
+
+}
+
+
+.dropdown-item:hover{
+
+background-color: white ;
+color: black;
+border-radius: 40px;
+
+}
     
-    #inicio{
-    
-        background-color: rgb(0, 255, 128);
-        color: rgb(0, 0, 0);
-    border-radius: 40px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    
-    }
-    
-    #inicioo{
-    padding-top: 15px;
-    padding-bottom: 15px;
-    }
-    
-    #card1{
-    
-    background-color: rgb(0, 255, 128);
-    border: none;
-    border-radius: 50px;
-    }
-    
-    
-    
-    #minijuegos{
-    
-    
-    background-color: rgb(87, 87, 87);
-    border: none;
-    border-radius: 40px;
-    text-align: center;
-    color: aliceblue;
-    
-    }
-    
-    #Jugar{
-    
-    background-color: rgb(0, 255, 128);
-    border: none;
+.nav-link{
+
+color: white;
+background-color: transparent;
+border-radius: 30px;
+
+}
+
+  
+.nav-link:hover{
+
+    color: black;
+    background-color: antiquewhite;
     border-radius: 30px;
-    width: 70% ;
-    height: 50px;
-    
+
+} 
+
+
+.nav-link:active{
+
+    color: #12729a;
+    background-color: antiquewhite;
+    border-radius: 30px;
     
     }
+
+
+    .nav-link:focus{
+
+        color: black;
+        background-color: transparent;
+        border-radius: 30px;
+        
+        }  
+   
+
+
+
+
+#header{
+color: white;
+text-align: center;
+
+}
+
+#button{
+    background-color: #12729a   ;
+    border-radius: 30px;
+    width: 100px;
+width: 40%;
+
+
+
+}
+
+#button a{
+text-decoration: none;
+color: white;
+}
+
+#button:hover{
+    background-color: #ff8959   ;
+    border-radius: 30px;
+    width: 40%;
     
-    #Ruleta{
-    
-    color: rgb(0, 0, 0);
-    background-color: rgb(0, 255, 128);
-    
-    background-size: cover;
-    border-radius: 40px;
-    padding: 40px;
-    width: 100%;
-    }
-    
-    
+}
+
+
+
