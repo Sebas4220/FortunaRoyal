@@ -105,27 +105,25 @@ text-align: center;
 
 }
 
-#button{
-    background-color: #12729a   ;
-    border-radius: 30px;
-    width: 100px;
-width: 40%;
-
-
-
-}
-
-#button a{
+#Info{
+padding: 6px;
+padding-left: 30px;
+padding-right: 30px;
+border: none;
+background-color: #12729a;
+border-radius: 30px;
 text-decoration: none;
 color: white;
 }
 
-#button:hover{
-    background-color: #ff8959   ;
-    border-radius: 30px;
-    width: 40%;
-    
+#Info:hover{
+
+padding: 6px;
+padding-left: 30px;
+padding-right: 30px;
+border: none;
+background-color: rgb(243, 125, 46);
+border-radius: 30px;
+color: black;
+
 }
-
-
-
